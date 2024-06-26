@@ -9,6 +9,9 @@
 //*        Ctrl + Shift + Z
 //*
 
+function saludar( nombre: string ) {
+    return `Hola ${ nombre }`;
+}
 
 //! Demo
 // function holaMundo() {
