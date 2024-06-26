@@ -10,6 +10,7 @@
 //*        Ir a la definición F12
 //*
 
+//
 import { saludar } from './extra/funciones';
 
 const saludo = saludar( 'Thanos' );
