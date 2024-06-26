@@ -9,11 +9,11 @@
 
 
 const parrafo1 = `
-                Hola!
-Qué tal están?
-            Todo bien
-                    Saludos
-    De nuevo
+Hola!
+    Qué tal están?
+        Todo bien
+        Saludos
+De nuevo
 `;
 
 
