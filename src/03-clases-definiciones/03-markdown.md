@@ -7,7 +7,7 @@ Ctrl + P : Markdown Open Preview
 Ctrl + P : Markdown Open Preview to the side
 ```
 
-# Dillinger
+# Dillinger - The Last Markdown Editor, Ever!
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
@@ -20,7 +20,7 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
   - See HTML in the right
   - Magic
 
-# New Features!
+# New Features in Dillinger!
 
   - Import a HTML file and watch it magically convert to Markdown
   - Drag and drop images (requires your Dropbox account be linked)
